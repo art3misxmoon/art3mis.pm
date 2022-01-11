@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width">
+		<title>{% if page.title %}{{ page.title }} :: {% endif %}{{ config.title }}</title>
+		<link rel="stylesheet" href="{{ get_url(path="global.css") | safe }}">
+		<meta name="description" content="{% if page.description %}{{ page.description | safe }}{% else %}{{ config.description | safe }}{% endif %}">
+    	<meta property="og:title" content="{% if page.title %}{{ page.title | safe }} :: {% endif %}{{ config.title | safe }}">
+    	<meta property="og:description" content="{% if page.description %}{{ page.description | safe }}{% else %}{{ config.description | safe }}{% endif %}">
+    	<meta property="og:locale" content="en_US">
+    	<meta property="og:type" content="website">
+    	{%- if current_url %}
+    	<meta property="og:url" content="{{ current_url | safe }}">
+    	<link rel="canonical" href="{{ current_url | safe }}">
+    	{% endif -%}
+    	<meta name="theme-color" content="#443551">
+	</head>
+	<body>
+		<header>
+			<h1>예솔</h1>
+		</header>
+		<main>
+			{%- block content %}{% endblock content %}
+		</main>
+	</body>
+</html>
