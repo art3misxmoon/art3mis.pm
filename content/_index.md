@@ -12,11 +12,11 @@ american and speak english and spanish. i got my start with an intro to
 c++ class and am now working as part of the [smmr software][smmr]
 collective with [FIGBERT][figb] and [Jacob Neplokh][jnep]. my favorite
 things are minecraft, object-based programming, and korean
-singer-producer [yaeji][yeji]. 
+singer-producer [yaeji][yeji].
 
 ## ♡ find me at...
 
-- `email` 
+- `moon@art3mis.pm` 
 - [github][gthb]
 
 ## ♡ webrings

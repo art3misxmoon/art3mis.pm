@@ -1,7 +1,7 @@
 :root {
   --background: #1f1e1e;
   --green: #61e294;
-  --blue-green: #7bcdba; 
+  --blue-green: #7bcdba;
   --blue-purple: #9799ca;
   --light-purple: #bd93d8;
   --purple: #b47aea;
@@ -19,12 +19,12 @@ body {
   margin-right: auto;
   margin-left: auto;
   line-height: 150%;
-  font-weight: normal; 
+  font-weight: normal;
   max-width: 75%;
 }
 
 h1 {
-  text-align: right; 
+  text-align: right;
   color: var(--green);
 }
 
