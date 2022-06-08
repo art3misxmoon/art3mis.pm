@@ -55,3 +55,9 @@ a:hover, a:visited {
 ul {
   color: var(--purple);
 }
+
+#super {
+  color: var(--blue-green);
+  vertical-align: super;
+  font-size: 12px;
+}
