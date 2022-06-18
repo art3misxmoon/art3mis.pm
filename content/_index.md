@@ -7,7 +7,7 @@ template = "section.html"
 
 i'm art3mis<span class="super">1</span>, a bay area high schooler and
 computer programmer. i'm still sort of new to software design and
-haven't donemany personal programming projects, but i'm having fun
+haven't done many personal programming projects, but i'm having fun
 learning how to make better code and create cool designs! i'm korean,
 indian, and japanese american and speak english and spanish. i got my
 start with an intro to c++ class and am now working as part of the
