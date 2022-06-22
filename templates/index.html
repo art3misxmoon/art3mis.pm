@@ -5,7 +5,8 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width">
 		<title>{% if page.title %}{{ page.title }} :: {% endif %}{{ config.title }}</title>
-		<link rel="stylesheet" href="{{ get_url(path="global.css") | safe }}">
+		<link rel="stylesheet" href="{{ get_url(path="css/global.css") }}">
+		<link rel="stylesheet" href="{{ get_url(path="css/nav.css") }}">
 		<meta name="description" content="{% if page.description %}{{ page.description | safe }}{% else %}{{ config.description | safe }}{% endif %}">
     	<meta property="og:title" content="{% if page.title %}{{ page.title | safe }} :: {% endif %}{{ config.title | safe }}">
     	<meta property="og:description" content="{% if page.description %}{{ page.description | safe }}{% else %}{{ config.description | safe }}{% endif %}">
@@ -20,6 +21,15 @@
 	<body>
 		<header>
 			<h1>예솔</h1>
+			<nav>
+				<ul>
+					<li><a href="{{ config.base_url }}">Home</a></li>
+					<li>
+						<a href="{{ get_url(path="posts/atom.xml") }}" class="rss">RSS</a>
+						<a href="{{ get_url(path="@/posts/_index.md") }}">Posts</a>
+					</li>
+				</ul>
+			</nav>
 		</header>
 		<main>
 			{%- block content %}{% endblock content %}
