@@ -63,7 +63,7 @@ a {
   text-decoration: none;
 }
 
-a:hover, a:visited {
+a:hover {
   color: var(--blue-purple);
 }
 
@@ -72,7 +72,7 @@ ul {
 }
 
 .super {
-  color: var(--blue-green);
+  color: var(--green);
   vertical-align: super;
   font-size: 12px;
 }

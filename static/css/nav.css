@@ -3,12 +3,8 @@ nav {
       font-size: 1.125rem;
 }
 
-nav > ul {
-      list-style: none;
-}
-
-nav > ul > li > a {
-      text-decoration: none;
+nav a {
+      color: var(--green);
 }
 
 ul {
@@ -25,9 +21,10 @@ li {
 li:before {
   content: "+";
   padding-right: 5px;
+  color: var(--green);
 }
 
 .rss {
-      color: var(--light-purple);
+      color: var(--blue-green);
       font-size: 0.75rem;
 }
