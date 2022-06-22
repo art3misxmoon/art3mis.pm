@@ -1,20 +1,18 @@
-# The URL the site will be built for
 base_url = "https://art3mis.pm"
 title = "art3mis pm"
+
 default_language = "en"
 minify_html = true
-
-# Whether to automatically compile all Sass files in the sass directory
-compile_sass = false
-
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+generate_feed = true
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
-render_emoji = true
-external_links_target_blank = true
+	highlight_code = true
+	render_emoji = true
+	external_links_target_blank = true
+
 [extra]
-# Put all your custom variables here
+	d3_nav = [
+		{ name = "HOME", path = "/" },
+		{ name = "POSTS", path = "/posts/" },
+  	]
+	d3_author = "art3mis"
