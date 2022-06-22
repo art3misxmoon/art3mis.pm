@@ -49,6 +49,7 @@ h3 {
 
 p, code {
   color: var(--purple);
+  font-size: 14px;
 }
 
 code {
