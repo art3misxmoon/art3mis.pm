@@ -77,9 +77,9 @@ up with a real community, and users that stick.
 ## on twitter as a source
 
 these past few days, i’ve been reading
-[karth and adam m smith’s paper][wfck] on WFC constrain solving, and
-it’s really interesting, and i definitely understand all the words in
-it! but what really stood out to me was the fact that almost half of
+[isaac karth and adam m. smith’s paper][wfck] on WFC constrain solving,
+and it’s really interesting, and i definitely understand all the words
+in it! but what really stood out to me was the fact that almost half of
 the sources in the paper are just tweets or personal correspondence.
 school really makes you think that you can only use scholarly articles
 and reference sources, and here’s an amazing paper coming out of a
