@@ -36,7 +36,7 @@ and know everything in the whole world just by googling things and
 collecting knowledge, but that just doesn’t work for me yet. i can’t
 remember things long enough for them to stick with me, and there’s
 simply too much to cover. As someone who hasn’t had much experience on
-the internet (former sheltered Asian kid with internet restrictions,
+the internet (former sheltered asian kid with internet restrictions,
 thanks mom) who’s been thrown into the world of software design,
 learning all these things from the internet is overrated- give me a
 really good tech dictionary and maybe i’ll start to get a handle on
@@ -64,8 +64,8 @@ collaborator in an open-source project. receiving that email shocked me
 and excited me so much because there was a real human behind the
 project, who cared enough to get me involved in their community, talk
 to me like a real human being, and give me the space to interact with
-their project. when we released mabel a few days ago, they helped
-promote us and congratulated our work. 
+their project. when we released [mabel][mabl] a few days ago, they
+helped promote us and congratulated our work. 
 
 now that mabel is out and circulating among users, i’ve sort of begun
 to realize how important it is to communicate with your users on an
@@ -94,4 +94,6 @@ anyways, that’s my first blog post. [let me know what you think!][moon]
 <3 art3mis
 
 [unca]: https://www.youtube.com/watch?v=FYpe5CzVcho
+[mabl]: https://github.com/smmr-software/mabel
+[wfck]: https://adamsmith.as/papers/wfc_is_constraint_solving_in_the_wild.pdf
 [moon]: mailto:moon@art3mis.pm
