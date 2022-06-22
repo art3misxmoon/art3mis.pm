@@ -14,8 +14,9 @@ start with an intro to c++ class and am now working as part of the
 [smmr software][smmr] collective with [FIGBERT][figb] and
 [Jacob Neplokh][jnep]. i'm the charismatic leader of the anti-capital
 letter agenda<span class="super">2</span>, and some of my favorite
-things are minecraft, object-oriented programming
-<span class="super">3</span>, and korean singer-producer [yaeji][yeji].
+things are minecraft,
+object-oriented programming<span class="super">3</span>, and korean
+singer-producer [yaeji][yeji].
 
 <span class="super">1</span>yes, like the ready player one character!
 
