@@ -1,0 +1,33 @@
+nav {
+      margin: 2.5rem 0 2.5rem 0;
+      font-size: 1.125rem;
+}
+
+nav > ul {
+      list-style: none;
+}
+
+nav > ul > li > a {
+      text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+li {
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+li:before {
+  content: "+";
+  padding-right: 5px;
+}
+
+.rss {
+      color: var(--light-purple);
+      font-size: 0.75rem;
+}
