@@ -1,0 +1,78 @@
+:root {
+  --background: #1f1e1e;
+  --green: #61e294;
+  --blue-green: #7bcdba;
+  --blue-purple: #9799ca;
+  --light-purple: #bd93d8;
+  --purple: #b47aea;
+}
+
+@font-face {
+  font-family: 'Roboto Mono';
+  src: url('/roboto-mono.ttf');
+}
+
+body {
+  font-family: 'Roboto Mono', monospace;
+  background-color: var(--background);
+  padding: 0 3rem 3rem 3rem;
+  margin-right: auto;
+  margin-left: auto;
+  line-height: 150%;
+  font-weight: normal;
+  max-width: 75%;
+  color: var(--purple)
+}
+
+header {
+  text-align: right;
+  color: var(--green);
+}
+
+h1  {
+  font-size: 30px;
+  line-height: 1.5;
+}
+
+h2 {
+  color: var(--blue-green);
+  padding-top: 5%;
+}
+
+h3 {
+  color: var(--light-purple);
+  font-size: 12px;
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+}
+
+p, code {
+  color: var(--purple);
+}
+
+code {
+  background-color: #443551;
+  padding: 3px 4px 5px;
+  border-radius: 0.2em;
+  white-space: nowrap;
+}
+
+a {
+  color: var(--light-purple);
+  text-decoration: none;
+}
+
+a:hover, a:visited {
+  color: var(--blue-purple);
+}
+
+ul {
+  color: var(--purple);
+}
+
+.super {
+  color: var(--blue-green);
+  vertical-align: super;
+  font-size: 12px;
+}
