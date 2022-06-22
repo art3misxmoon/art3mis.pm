@@ -1,6 +1,6 @@
 +++
 title = "on writing blog posts, learning things from the internet, rejection letters and taking care of your users, and twitter as a source"
-date = 2022-06-22
+date = 2022-06-23
 +++
 
 ### playing on art3mis.fm - [uncantena by sylvan esso][unca]
