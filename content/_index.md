@@ -11,12 +11,11 @@ haven't done many personal programming projects, but i'm having fun
 learning how to make better code and create cool designs! i'm korean,
 indian, and japanese american and speak english and spanish. i got my
 start with an intro to c++ class and am now working as part of the
-[smmr software][smmr] collective with [FIGBERT][figb] and
-[Jacob Neplokh][jnep]. i'm the charismatic leader of the anti-capital
-letter agenda<span class="super">2</span>, and some of my favorite
-things are minecraft,
-object-oriented programming<span class="super">3</span>, and korean
-singer-producer [yaeji][yeji].
+[smmr software][smmr] collective with [FIGBERT][figb] and [Jacob
+Neplokh][jnep]. i'm the charismatic leader of the anti-capital letter
+agenda<span class="super">2</span>, and some of my favorite things are
+minecraft, object-oriented programming<span class="super">3</span>, and
+korean singer-producer [yaeji][yeji].
 
 <span class="super">1</span>yes, like the ready player one character!
 
