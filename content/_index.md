@@ -12,17 +12,18 @@ i'm korean, indian, and japanese american and speak english and spanish.
 i got my start with an intro to c++ class and spent some time working as
 part of the [smmr software][smmr] collective with [FIGBERT][figb] and
 [Jacob Neplokh][jnep]. i also worked on a
-[pretty cool research project][ucsc] on music and machine-learning with uc santa cruz's
-computational media department. i'm the charismatic leader of the
-anti-capital letter agenda<span class="super">2</span>, and some of my
-favorite things are minecraft,
+pretty cool research project][ucsc] on music and machine-learning with
+uc santa cruz's computational media department. i'm the charismatic
+leader of the anti-capital letter agenda<span class="super">2</span>,
+and some of my favorite things are minecraft,
 object-oriented programming<span class="super">3</span>, and korean
 singer-producer [yaeji][yeji].
 
 <span class="super">1</span>yes, like the ready player one character!
 
 <span class="super">2</span>they're unnecessary, and this is much more
-aesthetically pleasing. the revolution is here.
+aesthetically pleasing. the revolution is here. radical anti-camel case
+is where it's at. 
 
 <span class="super">3</span>this is leftover from my java days- i just
 find it satisfying, even though i've become disillusioned with java in

@@ -1,5 +1,7 @@
 +++
-title = "on writing blog posts, learning things from the internet, rejection letters and taking care of your users, and twitter as a source"
+title = "on writing blog posts, learning things from the internet, 
+rejection letters and taking care of your users, and twitter as a
+source"
 date = 2022-06-23
 +++
 
